@@ -1,4 +1,4 @@
-# Baseboard for Orange Pi CM4
+# Baseboard PCB for OrangePi CM4
 
 ## 📌 Project Overview
 This project documents the design and development of a custom baseboard for the Orange Pi CM4 compute module. It serves as a practical reference for a complete hardware design workflow, from initial schematic capture to PCB layout and manufacturing output. The goal is to share the experience and methodology of building a functional, production‑ready baseboard.
