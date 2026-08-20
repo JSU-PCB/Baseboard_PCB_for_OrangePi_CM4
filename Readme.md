@@ -1,3 +1,6 @@
+<img width="736" height="446" alt="image" src="https://github.com/user-attachments/assets/570655dc-4833-4190-b8e0-6a8b79aeceb0" />
+
+
 # Baseboard PCB for OrangePi CM4
 
 ## 📌 Project Overview
