@@ -1,0 +1,190 @@
+Info: Processing symbol 'BOOT1:VIRA_Footprints:SW_B3U-1000P'.
+Info: Processing symbol 'C1:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C2:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C3:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C4:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C5:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C6:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C7:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C8:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C9:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C10:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C11:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C12:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C13:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C14:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C15:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C16:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C17:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C18:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C19:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C20:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C21:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C22:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C23:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C24:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C25:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C26:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C27:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C28:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C29:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C30:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C31:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C32:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C33:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C34:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C35:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C36:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C37:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'C38:VIRA_Footprints:C_0402_1005Metric'.
+Info: Processing symbol 'CAM1:VIRA_Footprints:HIROSE_FH12-30S-0.5SVA'.
+Info: Processing symbol 'CAM2:VIRA_Footprints:HRS_FH19C-15S-0.5SH_10_'.
+Info: Processing symbol 'D1:VIRA_Footprints:D_SOD-323'.
+Info: Processing symbol 'eDP1:VIRA_Footprints:HRS_FH63S-30S-0.5SH'.
+Info: Processing symbol 'ESD1:VIRA_Footprints:DIO_PESD5V0H1BSFYL'.
+Info: Processing symbol 'GND1:VIRA_Footprints:Pad'.
+Info: Processing symbol 'GPIO40:VIRA_Footprints:PinHeader_2x20_P2.54mm_Vertical'.
+Info: Processing symbol 'HDMI1:VIRA_Footprints:HDMI_Micro-D_Molex_46765-2xxx'.
+Info: Processing symbol 'R69:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R70:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R71:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R72:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R73:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R74:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R83:VIRA_Footprints:R_0603_1608Metric'.
+Info: Processing symbol 'R84:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R85:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R86:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R87:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'RECOVERY1:VIRA_Footprints:SW_B3U-1000P'.
+Info: Processing symbol 'RESET1:VIRA_Footprints:SW_B3U-1000P'.
+Info: Processing symbol 'RJ45:VIRA_Footprints:GCT_MGC005-2CD2C001H_REVA'.
+Info: Processing symbol 'SD1:VIRA_Footprints:GCT_MEM2075-00-140-01-A'.
+Info: Processing symbol 'TYPEC1:VIRA_Footprints:GCT_USB4125-GF-A_REVA2'.
+Info: Processing symbol 'JP1:VIRA_Footprints:HIROSE_DF40C-100DS-0.4V_51_'.
+Info: Processing symbol 'JP2:VIRA_Footprints:HIROSE_DF40C-100DS-0.4V_51_'.
+Info: Processing symbol 'U2:VIRA_Footprints:SOT-23-5'.
+Info: Processing symbol 'U3:VIRA_Footprints:SOT-23-5'.
+Info: Processing symbol 'U4:VIRA_Footprints:SOT-23-5'.
+Info: Processing symbol 'U5:VIRA_Footprints:SOT-23-5'.
+Info: Processing symbol 'UART1:VIRA_Footprints:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'R7:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'USBA20:VIRA_Footprints:TE_5787745-2'.
+Info: Processing symbol 'USBA30:VIRA_Footprints:STEWART_SS-52000-003'.
+Info: Processing symbol 'JP3:VIRA_Footprints:HIROSE_DF40C-24DS-0.4V_51_'.
+Info: Processing symbol 'JP4:VIRA_Footprints:Pad SMD 1x4'.
+Info: Processing symbol 'JP5:VIRA_Footprints:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'L15:VIRA_Footprints:L_Wuerth_PMCI-252012'.
+Info: Processing symbol 'LCD1:VIRA_Footprints:HIROSE_FH12-30S-0.5SVA'.
+Info: Processing symbol 'LED1:VIRA_Footprints:LED_0603_1608Metric'.
+Info: Processing symbol 'LED2:VIRA_Footprints:LED_0603_1608Metric'.
+Info: Processing symbol 'LED3:VIRA_Footprints:LED_0603_1608Metric'.
+Info: Processing symbol 'M.2:VIRA_Footprints:AMPHENOL_MDT420M03001'.
+Info: Processing symbol 'ON1:VIRA_Footprints:Pad'.
+Info: Processing symbol 'OPi1:VIRA_Footprints:OpiCM4'.
+Info: Processing symbol 'PJ1:VIRA_Footprints:CUI_SJ2-35894B-SMT-TR'.
+Info: Processing symbol 'Q3:VIRA_Footprints:SOT-23-3'.
+Info: Processing symbol 'Q4:VIRA_Footprints:SOT-23-3'.
+Info: Processing symbol 'R1:VIRA_Footprints:R_0603_1608Metric'.
+Info: Processing symbol 'R2:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R3:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R4:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R5:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R6:VIRA_Footprints:R_0603_1608Metric'.
+Info: Processing symbol 'R30:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R8:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R9:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R10:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R11:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R12:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R13:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R14:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R15:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R16:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R17:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R18:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R19:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R20:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R21:VIRA_Footprints:R_0603_1608Metric'.
+Info: Processing symbol 'R22:VIRA_Footprints:R_0603_1608Metric'.
+Info: Processing symbol 'R23:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R24:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R25:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R26:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R27:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R28:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R29:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R31:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R32:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R33:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R34:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R35:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R36:VIRA_Footprints:R_0603_1608Metric'.
+Info: Processing symbol 'R38:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R39:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R40:VIRA_Footprints:R_0402_1005Metric'.
+Info: Processing symbol 'R41:VIRA_Footprints:R_0805_2012Metric'.
+Info: Processing symbol 'R42:VIRA_Footprints:R_0805_2012Metric'.
+Info: Processing symbol 'R43:VIRA_Footprints:R_0603_1608Metric'.
+Info: Processing symbol 'R44:VIRA_Footprints:R_0603_1608Metric'.
+Info: Processing symbol 'R45:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R46:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R47:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R48:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R49:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R50:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R51:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R52:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R53:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R54:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R55:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R56:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R57:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R58:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R59:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R60:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R61:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R62:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R63:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R64:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R65:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R66:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R67:VIRA_Footprints:R_0201_0603Metric'.
+Info: Processing symbol 'R68:VIRA_Footprints:R_0201_0603Metric'.
+Add net HDMI_TX0N.
+Reconnected HDMI1 pin 11 from HDMI_TX0N_PORT to HDMI_TX0N.
+Add net HDMI_TXCLKN.
+Reconnected HDMI1 pin 14 from HDMI_TXCLKN_PORT to HDMI_TXCLKN.
+Add net HDMI_TX1P.
+Reconnected HDMI1 pin 6 from HDMI_TX1P_PORT to HDMI_TX1P.
+Add net HDMI_TX0P.
+Reconnected HDMI1 pin 9 from HDMI_TX0P_PORT to HDMI_TX0P.
+Add net HDMI_TXCLKP.
+Reconnected HDMI1 pin 12 from HDMI_TXCLKP_PORT to HDMI_TXCLKP.
+Add net HDMI_TX2N.
+Reconnected HDMI1 pin 5 from HDMI_TX2N_PORT to HDMI_TX2N.
+Add net HDMI_TX2P.
+Reconnected HDMI1 pin 3 from HDMI_TX2P_PORT to HDMI_TX2P.
+Add net HDMI_TX1N.
+Reconnected HDMI1 pin 8 from HDMI_TX1N_PORT to HDMI_TX1N.
+Reconnected JP2 pin 78 from HDMI_TX1N_PORT to HDMI_TX1N.
+Reconnected JP2 pin 82 from HDMI_TX0P_PORT to HDMI_TX0P.
+Reconnected JP2 pin 72 from HDMI_TX2N_PORT to HDMI_TX2N.
+Reconnected JP2 pin 90 from HDMI_TXCLKN_PORT to HDMI_TXCLKN.
+Reconnected JP2 pin 84 from HDMI_TX0N_PORT to HDMI_TX0N.
+Reconnected JP2 pin 76 from HDMI_TX1P_PORT to HDMI_TX1P.
+Reconnected JP2 pin 70 from HDMI_TX2P_PORT to HDMI_TX2P.
+Reconnected USBA20 pin 2A from USB2_HOST2_DM to USB2_HOST2_DN.
+Reconnected JP2 pin 88 from HDMI_TXCLKP_PORT to HDMI_TXCLKP.
+Removed unused net HDMI_TX0N_PORT.
+Removed unused net HDMI_TX0P_PORT.
+Removed unused net HDMI_TX1N_PORT.
+Removed unused net HDMI_TX1P_PORT.
+Removed unused net HDMI_TX2N_PORT.
+Removed unused net HDMI_TX2P_PORT.
+Removed unused net HDMI_TXCLKN_PORT.
+Removed unused net HDMI_TXCLKP_PORT.
+Removed unused net USB2_HOST2_DM.
+
+
+Info: Total warnings: 0, errors: 0.
